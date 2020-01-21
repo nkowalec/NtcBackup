@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "NtcBackup": {
+      "commandName": "Project",
+      "commandLineArgs": "--backup"
+    }
+  }
+}
